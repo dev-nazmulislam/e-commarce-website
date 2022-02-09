@@ -1,0 +1,21 @@
+.slid1-image{
+    background-image: url(images/slid-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slid2-image{
+    background-image: url(images/slid-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slid3-image{
+    background-image: url(images/slid-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sunglus{
+    background-color: #E4E3DC;
+}
+.canvas{
+    background-color: #010101;
+}
